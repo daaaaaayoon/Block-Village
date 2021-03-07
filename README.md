@@ -113,8 +113,10 @@
 
 ### Frontend
 
+- html5, postCss, JavaScript
 - React.js
 - Redux
+- Redux-middleware (redux-actions, redux-pender)
 
 ## Code Style ( Google Convention )
 
@@ -123,3 +125,11 @@ https://www.notion.so/Code-Style-Google-Convention-55fd2ffa3da04e29bd18fc9852fa8
 ## 진행상황 공유 노션 링크
 
 https://www.notion.so/f19176b5c4274889aef8a2e559d075d9
+
+## 블록마을 서비스 소개 영상
+
+https://youtu.be/Qh5PvmY4yfQ
+
+## 블록마을 서비스 시연 영상
+
+https://youtu.be/hLIwbMk0OIE
