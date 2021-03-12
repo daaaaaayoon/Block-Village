@@ -197,7 +197,7 @@
 
 ## 4. Code Style (Google Convention)
 
-[Code Style (Google Convention)](./docs/Code Style (Google Convention).md)
+[Code Style (Google Convention)](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/blob/master/docs/Code%20Style%20(Google%20Convention).md)
 
 
 
