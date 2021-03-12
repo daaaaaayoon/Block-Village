@@ -1,6 +1,6 @@
 # README
 
-![메인](\readme_img\메인.png)
+![메인](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/메인.png)
 
 ## 열말잘팀 ( B205 )
 
@@ -52,7 +52,7 @@
 
 ### 프로젝트명 : 블록마을
 
-![sub_main_image](\readme_img\sub_main_image.png)
+![sub_main_image](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/sub_main_image.png)
 
 - 목적 : 주어진 문제를 해결하고, 공유하는 과정을 통해서 **사고력과 창의력을 증진**시킬 수 있게 도와주는 온라인 교육 플랫폼이다.
 - 목표 : 우리는 사고력 증진 도구로서 블록코딩을 이용할 수 있는 에디터를 제공하며, 각자 제작한 게시물을 공유함으로써 **다양한 생각과 접근의 경험**을 제공한다.
@@ -63,7 +63,7 @@
 
 - 미니룸 ( 마이페이지 )
 
-  ![my_page_basic](\readme_img\my_page_basic.png)
+  ![my_page_basic](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/my_page_basic.png)
 
   - 3가지의 테마 제공
   - 내 정보 조회, 수정, 탈퇴
@@ -75,7 +75,7 @@
 
 - 블록 (미션, 답안)
 
-  ![market2](\readme_img\market2.png)
+  ![market2](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/market2.png)
 
   - 보상 : 마일리지 부여
   - 구입한 블록으로만 미션을 제작하거나 답안 제작이 가능
@@ -84,7 +84,7 @@
 
 - 상점(블록)
 
-  ![market](\readme_img\market.png)
+  ![market](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/market.png)
 
   - 마일리지로 블록 구매
   - 구입한 블록은 사용 횟수에 제한이 없음
@@ -93,7 +93,7 @@
 
 - 튜토리얼
 
-  ![tutorial1](\readme_img\tutorial1.png)
+  ![tutorial1](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/tutorial1.png)
 
   - 에디터 화면 소개 및 3단계의 튜토리얼 진행
   - 완료 시 기본 블록 및 마일리지 부여
@@ -102,7 +102,7 @@
 
 - 미션 제작
 
-  ![mission_create2](\readme_img\mission_create2.png)
+  ![mission_create2](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/mission_create2.png)
 
   - playground 속 이미지 업로드
   - 블록을 사용하여 캐릭터의 움직임을 컨트롤
@@ -112,7 +112,7 @@
 
 - 답안
 
-  ![answer_list](\readme_img\answer_list.png)
+  ![answer_list](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/answer_list.png)
 
   - 미션의 제목과 설명글을 보고 미션의 내용을 파악
   - 자신이 가진 블록을 가지고 캐릭터를 움직여 미션 답안 제출
@@ -122,7 +122,7 @@
 
 - 미션 목록
 
-  ![mission_list](readme_img\mission_list.png)
+  ![mission_list](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/mission_list.png)
 
   - 유저 이름으로 해당 유저의 미션 검색
   - 작성순, 댓글순, 좋아요순, 조회수(답안), 참여순(미션)
@@ -132,7 +132,7 @@
 
 - 게시물 (미션)
 
-  ![mission_list3](\readme_img\mission_list3.png)
+  ![mission_list3](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/mission_list3.png)
 
   - 좋아요 기능
   - 참여하기 / 참여 후 다른 답안 목록 보러 가기 버튼 활성화
@@ -141,7 +141,7 @@
 
 - 게시물 (답안)
 
-  ![answer_detail](\readme_img\answer_detail.png)
+  ![answer_detail](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/answer_detail.png)
 
   - 블록 코드 확인, 실행
   - 좋아요 기능 활성화
@@ -152,7 +152,7 @@
 
 - 챌린지(기간제 미션)
 
-  ![challenge_list](\readme_img\challenge_list.png)
+  ![challenge_list](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/challenge_list.png)
 
   - 특정기간에는 하나의 챌린지만 진행됨
   - 보상으로 마일리지 제공
@@ -164,11 +164,11 @@
 
 - 공지사항
 
-![notice](\readme_img\notice.png)
+![notice](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/notice.png)
 
 - 서비스 소개
 
-![intro](\readme_img\intro.png)
+![intro](https://lab.ssafy.com/s04-webmobile1-sub3/s04p13b205/tree/master/readme_img/intro.png)
 
 
 
